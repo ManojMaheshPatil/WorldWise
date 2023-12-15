@@ -1,7 +1,7 @@
 
 # WorldWise
 
-Explore the globe with WorldWise, a dynamic Single Page Application (SPA) designed for real-world city navigation. Seamlessly bookmark your favorite destinations, and capture your travel experiences with personalized notes built using the advanced topics of React.
+Explore the globe with WorldWise, a dynamic Single Page Application (SPA) designed for real-world city navigation. Seamlessly bookmark your favorite destinations, and capture your travel experiences with personalized notes built using the advanced concepts of React.
 
 
 
